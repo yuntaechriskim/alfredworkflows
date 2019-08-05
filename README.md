@@ -1,4 +1,4 @@
-# alfredworkflows
+# Alfred Workflows by YuntaeChrisKim
 
 ## Chrome Picture-in-Picture Mode Workflow
 1. Install the following extension. [Chrome PiP Extension](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en)
